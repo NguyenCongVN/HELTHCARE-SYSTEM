@@ -23,11 +23,10 @@ The goal of the project is to create data pipelines for the Health Care insuranc
 
 ## Environment
 
-* Linux (Ubuntu 18.04)
-* Hadoop 2.7.2
-* Spark 2.0.2
-* sqoop 1.4.7
-* python3
+* Linux (Ubuntu 20.04.6 LTS)
+* Hadoop 3.3.1
+* Spark 2.12.15
+* python3.9 (miniconda)
 
 ## STEPS:
 

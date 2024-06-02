@@ -2,7 +2,7 @@
 0,patient_id,int,
 1,patient_name,string,
 2,patient_gender,string,
-3,patient_birth_date,string,
+3,patient_birth_date,date,
 4,patient_phone,string,
 5,disease_name,string,
 6,city,string,
